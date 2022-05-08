@@ -26,8 +26,8 @@ module.exports = {
   plugins: [
     new HtmlWebPackPlugin({
       title: 'Development',
-      favicon: './client/src/assets/favicon.ico',
-      template: './client/src/assets/index.html'
+      favicon: './client/assets/favicon.ico',
+      template: './client/assets/index.html'
     })
   ]
 };
