@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "outDir": "./build",
+    "sourceMap": true,
+    "allowJs": true,
+    "module": "es6",
+    "jsx": "react",
+    "target": "es5"
+  },
+  "include": ["./server/**/*"]
+}
